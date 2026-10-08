@@ -1,0 +1,4 @@
+raw_packet,reason
+TEMP_01|2026-10-07T10:00:21|TEMPERATURE|ABC|C|OK,Sensor value is not numeric
+TEMP_01|2026-10-07T10:00:22|TEMPERATURE|29.5|C,Invalid number of fields
+UNKNOWN_01|2026-10-07T10:00:23|TEMPERATURE|25.0|C|OK,Unknown sensor ID
