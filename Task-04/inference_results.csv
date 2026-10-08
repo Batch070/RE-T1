@@ -1,0 +1,2 @@
+temperature,pressure,humidity,acceleration,prediction,confidence,inference_time_ms
+28.5,101.2,63.4,9.81,0,0.690895,18.102666
