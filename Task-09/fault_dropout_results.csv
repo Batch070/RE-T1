@@ -1,0 +1,13 @@
+sample_number,raw_reading,status,handled_value,action
+1,25.2,VALID,25.2,Accept sensor reading
+2,25.4,VALID,25.4,Accept sensor reading
+3,25.7,VALID,25.7,Accept sensor reading
+4,,DROPOUT,25.7,Fallback to last valid reading
+5,26.0,VALID,26.0,Accept sensor reading
+6,-999.0,FAULT,26.0,Invalid reading; fallback to last valid reading
+7,26.3,VALID,26.3,Accept sensor reading
+8,150.0,FAULT,26.3,Invalid reading; fallback to last valid reading
+9,26.5,VALID,26.5,Accept sensor reading
+10,,DROPOUT,26.5,Fallback to last valid reading
+11,26.8,VALID,26.8,Accept sensor reading
+12,27.0,VALID,27.0,Accept sensor reading
